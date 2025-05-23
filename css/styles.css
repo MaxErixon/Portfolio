@@ -3999,7 +3999,8 @@ img.u-pull-left {
 @media screen and (max-width: 400px) {
     .folio-list .column {
         flex  : none;
-        width : 50%;
+        width : 100%;
+        margin-bottom: 2rem;
     }
 
     .folio-list__item {
